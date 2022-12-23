@@ -6,4 +6,3 @@
 ###    Hoàng Huy Bảo
 ## <li>**Link đề thi:**</li> https://bit.ly/dethi_round3
 ## <li>Link video Youtube của đội thi:**</li> https://youtu.be/FCgrc1XlJFg
-</ul>
