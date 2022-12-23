@@ -1,5 +1,5 @@
 # **Sau đây là thông tin các thành viên của đội thi và các thông tin khác về bài thi của đội.**
-###  <li>Tên đội:</li> CĐB
+###  <li>Tên đội:</li> #CDB
 ###  <li>**Tên thành viên:**</li>
 ####    Vũ Lê Mạnh Cường
 ####    Phạm Thành Đạt
