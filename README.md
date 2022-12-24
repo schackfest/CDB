@@ -4,7 +4,7 @@
   <li>Tên thành viên:
   <ul>
     <li>Vũ Lê Mạnh Cường</li>
-    <li>Phạm Thành Đạ </li>
+    <li>Phạm Thành Đạt </li>
     <li>Hoàng Huy Bảo</li>   
  </ul>
   </li>
